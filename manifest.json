@@ -1,0 +1,7 @@
+{
+    "name" : "Fishihng Chaos Leaderboard Exporter",
+    "version": "1.0.0",
+    "description": "Export leaderboard data to a Jpeg file for instagram",
+    "manifest_version": 3,
+    "author": "Mitchell Peterson"
+}
